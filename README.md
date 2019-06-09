@@ -1,5 +1,7 @@
 ## Laboratory work V
 
+https://travis-ci.org/FalaleevDanila/lab05.svg?branch=master
+
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```ShellSession
