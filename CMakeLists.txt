@@ -44,3 +44,5 @@ if(BUILD_TESTS)
   target_link_libraries(check ${PROJECT_NAME} gtest_main)
   add_test(NAME check COMMAND check)
 endif()
+
+include(CPackConfig.cmake)
